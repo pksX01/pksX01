@@ -1,27 +1,11 @@
-### Hi there 👋
-
-<!--
-**pksX01/pksX01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# About Me
+## About Me
 Hi, Myself Pavan Kumar Singh, working as Data and AI Engineer at American Express.
 
 ## My Experience:
 
 - [**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - Ongoing*
 - [**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
-- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - December 2021                   
+- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - December 2021*                  
 
 ## Contact:
 
@@ -58,3 +42,5 @@ Engineer in first half of FY20-21 (02/2021)
 </p>
 
 Following are some of the repositories that I have contributed to and/or contribute to.
+- [Keras](https://github.com/keras-team/keras)
+- [keras-io](https://github.com/keras-team/keras-io)

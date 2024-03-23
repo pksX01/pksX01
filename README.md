@@ -3,9 +3,10 @@ Hi, Myself Pavan Kumar Singh, working as Data and AI Engineer at American Expres
 
 ## My Experience:
 
-- [**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - Ongoing*
+- [**American Express**](https://www.americanexpress.com/) | Engineer I (Data & AI) - *March 2024 - Ongoing*
+- [**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - March 2024*
 - [**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
-- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - December 2021*                  
+- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - November 2021*                  
 
 ## Contact:
 
@@ -14,6 +15,7 @@ Hi, Myself Pavan Kumar Singh, working as Data and AI Engineer at American Expres
 <a href="https://twitter.com/martian_2050" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/pksX01" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://wandb.ai/pksX01" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
+<a href=https://huggingface.co/pksx01 target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFBE00?style=for-the-badge&logo=Huggingface&logoColor=yellow" alt="Huggingface"></a>
 
 ## Key Achievements:
 - Received 'Pinnacle Award FY21 – Rising Star' by Accenture for work delivered as Data 
@@ -25,10 +27,10 @@ Engineer in first half of FY20-21 (02/2021)
 - Received merit certificate by CBSE for scoring 10 CGPA in class 10th (2012)
 
 ## Top Kaggle Notebooks
-- [fast ai Course 1 - Lesson 2: Bear Classification](https://www.kaggle.com/code/pksx01/fast-ai-course-1-lesson-2-bear-classification)
-- [Audio MNIST Classification using fast.ai](https://www.kaggle.com/code/pksx01/audio-mnist-classification-using-fast-ai)
-- [How does a neural net really work?](https://www.kaggle.com/code/pksx01/how-does-a-neural-net-really-work)
-- [Digit Recognition using Keras with accuracy > 99%](https://www.kaggle.com/code/pksx01/digit-recognition-using-keras-with-accuracy-99)
+- [**fast ai Course 1 - Lesson 2: Bear Classification**](https://www.kaggle.com/code/pksx01/fast-ai-course-1-lesson-2-bear-classification)
+- [**Audio MNIST Classification using fast.ai**](https://www.kaggle.com/code/pksx01/audio-mnist-classification-using-fast-ai)
+- [**How does a neural net really work?**](https://www.kaggle.com/code/pksx01/how-does-a-neural-net-really-work)
+- [**Digit Recognition using Keras with accuracy > 99%**](https://www.kaggle.com/code/pksx01/digit-recognition-using-keras-with-accuracy-99)
 
 ## GitHub Stats
 
@@ -42,5 +44,5 @@ Engineer in first half of FY20-21 (02/2021)
 </p>
 
 Following are some of the repositories that I have contributed to and/or contribute to.
-- [Keras](https://github.com/keras-team/keras)
+- [keras](https://github.com/keras-team/keras)
 - [keras-io](https://github.com/keras-team/keras-io)

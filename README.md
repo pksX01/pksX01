@@ -1,5 +1,10 @@
 ## About Me
-Hi, Myself Pavan Kumar Singh, working as Data and AI Engineer at American Express.
+I am Pavan Kumar Singh, a Data Engineer and Machine Learning Engineer.
+- 🔭 I’m currently working as a Data & AI Engineer at [American Express](https://www.americanexpress.com).
+- 🌱 Exploring Generative AI (especially applications of Large Language Models), Computer Vision and Deep Learning.
+- 😄 Pronouns: He/His/Him.
+- ⚡ Listening to music, binge watching movies and web series, and studying and exploring different technologies are my favourite hobbies.
+
 
 ## My Experience:
 

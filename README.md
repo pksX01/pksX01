@@ -15,7 +15,7 @@ Hi, Myself Pavan Kumar Singh, working as Data and AI Engineer at American Expres
 <a href="https://twitter.com/martian_2050" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/pksX01" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://wandb.ai/pksX01" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
-<a href=https://huggingface.co/pksx01 target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFBE00?style=for-the-badge&logo=Huggingface&logoColor=yellow" alt="Huggingface"></a>
+<a href=https://huggingface.co/pksx01 target="_blank"><img src="https://img.shields.io/badge/Huggingface-FFBE00?style=for-the-badge&logo=Huggingface&logoColor=yellow" alt="🤗Huggingface"></a>
 
 ## Key Achievements:
 - Received 'Pinnacle Award FY21 – Rising Star' by Accenture for work delivered as Data 

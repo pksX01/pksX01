@@ -6,12 +6,55 @@ I am Pavan Kumar Singh, a Data Engineer and Machine Learning Engineer.
 - ⚡ Listening to music, binge watching movies and web series, and studying and exploring different technologies are my favourite hobbies.
 
 
-## My Experience:
+## Work Experience:
 
-- [**American Express**](https://www.americanexpress.com/) | Engineer I (Data & AI) - *March 2024 - Ongoing*
-- [**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - March 2024*
-- [**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
-- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - November 2021*                  
+[**American Express**](https://www.americanexpress.com/) | Engineer I (Data & AI) - *March 2024 - Ongoing*
+- Building a RAG based Generative AI application leveraging Open AI GPT as well as open-
+source LLMs like Llama 2, Langchain and Llama-index for querying different GitHub 
+repositories. 
+- Building a Generative AI application for querying Tableau dashboards.
+
+[**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - March 2024*
+- Contributed to different Open Source repositories like Keras, HuggingFace etc. as part of American Express Open Source Initiative. 
+- Contributed to upgrade multiple Keras official examples to Keras 3 in Keras and Keras-io 
+GitHub repository. 
+- Identified and solved multiple bugs in existing Keras official examples Keras GitHub 
+repository while upgrading to Keras 3. 
+- Worked on prediction of number of applications applied daily for each partner using different 
+Machine Learning algorithms like Linear Regression, Gradient boosting Trees and Time 
+Series modelling with hyperparameter tuning using scikit-learn, fb-prophet, Numpy, Pandas, Hive and PySpark. 
+- Presented different topics related to AI in internal Developer Advocacy events and GuildCon 2023. 
+- Designed different types of architectures for loading data to Jethro like loading data to 
+selected partitions, loading data irrespective of partitions, decommissioning Jethro for some 
+modules etc. 
+- Reduced ETL processing time by 70% while working on the transition of Hive based big data 
+legacy system to PySpark. 
+- Created a script using Python and PySpark which facilitates the loading of only latest data 
+instead of complete data from Hive to Jethro, which results in the reduction of time taken in 
+loading data by almost 90% and memory consumption by 80-85%. 
+- Created a Python and PySpark script and Event Engine (an internal job scheduling tool) 
+node to load data to Jethro from Hive for a given set of partitions on ad-hoc requirements 
+which enables developers to load data to Jethro in a single click without manual intervention. 
+It supports loading of single month, multiple consecutive months and multiple non-consecutive months data. 
+- Created a Python script as a cross-team collaboration which converts Jethro DDL to 
+BigQuery DDL by taking either of Jethro file or Jethro table name and credentials. 
+- Perform unit testing and end to end system testing of Hive tables and delimited text files 
+using manual testing by running Hive queries and some in-house developed Data Quality 
+testing tools.
+
+[**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
+- Worked in a healthcare based multi vendor Big Data project which uses Agile methodology SDLC.
+- Worked on Azure Data Factory and SQL.
+
+[**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - November 2021*    
+- Worked on Azure Data Factory, Azure Synapse and SQL in a healthcare based multi vendor 
+Big Data project. 
+- Created complex Hive and SQL queries to perform sanity checks of data. 
+- Transformed data stored in Hive warehouse by using PySpark SQL. 
+- Developed ‘Test Script Generator’ using Python which can generate multiple test scripts 
+automatically for multiple extracts within few seconds thus reduced time taken in Test Script 
+preparation for around 75-90% scenarios by 80%. 
+- Prepared Hive queries for generating data by joining multiple tables as per business logic              
 
 ## Contact:
 

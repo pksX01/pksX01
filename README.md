@@ -24,8 +24,7 @@ repository while upgrading to Keras 3.
 Machine Learning algorithms like Linear Regression, Gradient boosting Trees and Time 
 Series modelling with hyperparameter tuning using scikit-learn, fb-prophet, Numpy, Pandas, 
 Hive and PySpark. 
-- Presented different topics related to AI in internal Developer Advocacy events and GuildCon 
-2023. 
+- Presented different topics related to AI in internal Developer Advocacy events and GuildCon 2023. 
 - Designed different types of architectures for loading data to Jethro like loading data to 
 selected partitions, loading data irrespective of partitions, decommissioning Jethro for some 
 modules etc. 

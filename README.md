@@ -35,8 +35,7 @@ loading data by almost 90% and memory consumption by 80-85%.
 - Created a Python and PySpark script and Event Engine (an internal job scheduling tool) 
 node to load data to Jethro from Hive for a given set of partitions on ad-hoc requirements 
 which enables developers to load data to Jethro in a single click without manual intervention. 
-It supports loading of single month, multiple consecutive months and multiple non-
-consecutive months data. 
+It supports loading of single month, multiple consecutive months and multiple non-consecutive months data. 
 - Created a Python script as a cross-team collaboration which converts Jethro DDL to 
 BigQuery DDL by taking either of Jethro file or Jethro table name and credentials. 
 - Perform unit testing and end to end system testing of Hive tables and delimited text files 

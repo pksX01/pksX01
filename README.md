@@ -6,9 +6,13 @@ I am Pavan Kumar Singh, a Data Engineer and Machine Learning Engineer.
 - ⚡ Listening to music, binge watching movies and web series, and studying and exploring different technologies are my favourite hobbies.
 
 
-## My Experience:
+## Work Experience:
 
 - [**American Express**](https://www.americanexpress.com/) | Engineer I (Data & AI) - *March 2024 - Ongoing*
+• Building a RAG based Generative AI application leveraging Open AI GPT as well as open-
+source LLMs like Llama 2, Langchain and Llama-index for querying different GitHub 
+repositories. 
+• Building a Generative AI application for querying Tableau dashboards.
 - [**American Express**](https://www.americanexpress.com/) | Engineer II (Data & AI) - *January 2022 - March 2024*
 - [**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
 - [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - November 2021*                  

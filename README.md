@@ -14,6 +14,8 @@ I am Pavan Kumar Singh, a Data Engineer and Machine Learning Engineer.
 
 - [**Accenture**](https://www.accenture.com/) | Data Engineering Analyst - *December 2021 - December 2021*
         
+- [**Accenture**](https://www.accenture.com/) | Data Engineering Associate - *September 2019 - November 2021*
+
 
 ## Contact:
 
